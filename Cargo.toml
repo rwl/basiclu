@@ -1,0 +1,10 @@
+[package]
+name = "basiclu"
+version = "0.1.0"
+edition = "2021"
+description = "Rust wrapper for BasicLU"
+license = "MIT"
+repository = "https://github.com/rwl/basiclu"
+
+[dependencies]
+basiclu-sys = "0.1"
